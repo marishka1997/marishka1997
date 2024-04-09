@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mariam-gaspariani-👩🏻%E2%80%8D💻-95a96222a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0080FE&size=32&lines=Front+End+Developer;Angular+Developer;Georgian+Girl+🇬🇪;Hello...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0080FE&size=32&lines=Front+End+Developer;Angular+Developer;Georgian+🇬🇪;Hello...)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
