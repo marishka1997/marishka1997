@@ -62,7 +62,7 @@ const mari = {
    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=Jira&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
    <img src="https://img.shields.io/badge/-TSLint-4B32C3?style=flat-square&logo=TSLint&logoColor=white"/>
