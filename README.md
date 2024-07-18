@@ -12,10 +12,10 @@
 <p><em>Front End Developer at <a href="http://www.unb.br">DGA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Volunteer at <a href="https://www.komokie.com">Komokie</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-  <a href="mailto:m.gasparian11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mariamgasparyan97"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mariam-gaspariani-👩🏻%E2%80%8D💻-95a96222a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0080FE&size=32&lines=Front+End+Developer;Angular+Developer;Georgian+🇬🇪;Hello...)](https://git.io/typing-svg)
 
@@ -70,9 +70,9 @@ const mari = {
    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/m.gasparian11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.gasparian11@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/GMAIL)](mailto:m.gasparian11@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@marishkaa1997-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/marishkaa1997 "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-@mary_green_eyes-00acee?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D "Follow on Twitter")
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM)](https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/mariam-gasparian "Connect on Facebook")
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
