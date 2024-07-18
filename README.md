@@ -70,9 +70,9 @@ const mari = {
    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/GMAIL)](mailto:m.gasparian11@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/m.gasparian11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.gasparian11@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@marishkaa1997-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/marishkaa1997 "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM)](https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D "Follow on Twitter")
+[![Instagram Badge](https://img.shields.io/badge/-@mary_green_eyes-00acee?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/mary_green_eyes97/?igsh=MTB6MTlwMXlnOTZpdg%3D%3D "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/mariam-gasparian "Connect on Facebook")
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
