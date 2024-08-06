@@ -32,11 +32,9 @@ const mari = {
                         volunteer: "Komokie",
                         mentor: "RS School"
                       },
- challenge: "I am solving the #LeetCode challenges focused on data structures and algorithms"
 }
 
 ```
-![code](https://github.com/marishka1997/readme/assets/86516649/b3f04169-6a2b-4d59-988e-fe16d2159646)
 
 
 ## Tech Stack
