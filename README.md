@@ -9,7 +9,7 @@
   <br> <br>
 </p>
 
-<p><em>Front End Developer at <a href="http://www.unb.br">DGA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Volunteer at <a href="https://www.komokie.com">Komokie</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front End Developer at <a href="http://www.unb.br">ITEASA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Volunteer at <a href="https://www.komokie.com">Komokie</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
   <a href="mailto:"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
